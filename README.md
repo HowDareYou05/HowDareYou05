@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 📫 How to reach me **mattiasbenda@gmail.com**
+- 📫 How to reach me **here at Github**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
