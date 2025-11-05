@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=howdareyou05&label=Profile%20views&color=0e75b6&style=flat" alt="howdareyou05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=howdareyou05" alt="howdareyou05" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=howdareyou05-ma&theme=darkhub" alt="howdareyou05" /></a> </p>
 
 - 🔭 I’m currently working on **Survey-Buch Flächenvergleich**
 
